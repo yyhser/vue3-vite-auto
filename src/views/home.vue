@@ -1,5 +1,5 @@
 <template>
-  <div class="text">13</div>
+  <div class="text">123</div>
 </template>
 <script lang="ts">
 import { defineComponent } from 'vue'
